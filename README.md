@@ -185,9 +185,6 @@ These steps provide the foundation for downstream microbial community analysis, 
 
 For further QIIME2 documentation, visit: [QIIME2 Official Documentation](https://docs.qiime2.org)
 
----
-
-This structured approach ensures that students not only run the commands but also understand **why** each step is important in microbial community analysis. Let me know if you’d like to refine any part!
 
 ---
 
