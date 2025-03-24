@@ -26,10 +26,7 @@ QIIME2 can be installed using a **Conda environment**, which allows us to manage
 ### Download the data
 
 ```bash
-cd Desktop
 wget 'https://disc-genomics.uibk.ac.at/data/CAME_SSU.tar.gz' -O - | tar -zx
-mv VM_CAME QIIME2
-cd QIIME2
 ```
 
 Before running any analysis, ensure all necessary files are available.
@@ -37,7 +34,7 @@ Before running any analysis, ensure all necessary files are available.
 ### **Navigate to the working directory:**
 
 ```bash
-cd /home/vmuser/Desktop/QIIME2
+cd VM_CAME
 ```
 
 ### **List the available sequencing files:**
